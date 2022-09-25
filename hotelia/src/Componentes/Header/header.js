@@ -1,5 +1,6 @@
 import "./header.css";
 import logo from "./Hotelia-horizontal-blanco.svg"
+
 function header() {
     return(
         <nav id="nav">
@@ -9,8 +10,8 @@ function header() {
             </div>
             <div className="menu" id="menu">
                   <a href="index.html" className="item">Inicio</a>
-                  <a href="ubicacion.html" className="item">Ubícanos</a>
-                  <a href="opiniones.html" className="item">Opiniones</a>
+                  <a href="#ubicacion" className="item">Ubícanos</a>
+                  <a href="#opinion" className="item">Opiniones</a>
                   <a href="login.html" className="item">
                   <button><i className="fa-solid fa-user"></i>Iniciar Sesión</button></a>
             </div>

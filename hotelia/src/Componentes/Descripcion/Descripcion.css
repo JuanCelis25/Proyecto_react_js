@@ -3,11 +3,11 @@
     padding: 5rem;
     align-items: center;
     justify-content:space-between;
+    font-size: 125%;
 }
 
 .text-descripcion{
-    flex-basis: 70%;
-    
+    flex-basis: 60%; 
 }
 
 .img-descripcion{

@@ -31,4 +31,6 @@ nav{
     margin: 2%;
     height: 3.6rem;  
     width: 100%;   
+}.logo i{
+    display: none;
 }
