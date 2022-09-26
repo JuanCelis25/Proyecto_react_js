@@ -5,7 +5,7 @@ function Feature(){
         <section id="feature">
             
             <h2>Razones por las que disfrutarás quedarte con nosotros</h2>
-            <div className="feature-row">
+            <div className="feature-row" id="feature-row">
                 <CardFeature
                 texto='Reservas'
                 background={true}

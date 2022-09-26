@@ -10,7 +10,7 @@ function header() {
             </div>
             <div className="menu" id="menu">
                   <a href="index.html" className="item">Inicio</a>
-                  <a href="#ubicacion" className="item">Ubícanos</a>
+                  <a href="#feature-row" className="item">Ubícanos</a>
                   <a href="#opinion" className="item">Opiniones</a>
                   <a href="login.html" className="item">
                   <button><i className="fa-solid fa-user"></i>Iniciar Sesión</button></a>
